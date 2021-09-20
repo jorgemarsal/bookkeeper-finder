@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/bookkeeper-finder/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/bookkeeper-finder/static/js/main.f2a4466f.chunk.js",
+    "main.js.map": "/bookkeeper-finder/static/js/main.f2a4466f.chunk.js.map",
+    "runtime-main.js": "/bookkeeper-finder/static/js/runtime-main.f0d1dca9.js",
+    "runtime-main.js.map": "/bookkeeper-finder/static/js/runtime-main.f0d1dca9.js.map",
+    "static/css/2.28bb0c3d.chunk.css": "/bookkeeper-finder/static/css/2.28bb0c3d.chunk.css",
+    "static/js/2.f409ee30.chunk.js": "/bookkeeper-finder/static/js/2.f409ee30.chunk.js",
+    "static/js/2.f409ee30.chunk.js.map": "/bookkeeper-finder/static/js/2.f409ee30.chunk.js.map",
+    "static/js/3.3af0da6f.chunk.js": "/bookkeeper-finder/static/js/3.3af0da6f.chunk.js",
+    "static/js/3.3af0da6f.chunk.js.map": "/bookkeeper-finder/static/js/3.3af0da6f.chunk.js.map",
+    "index.html": "/bookkeeper-finder/index.html",
+    "static/css/2.28bb0c3d.chunk.css.map": "/bookkeeper-finder/static/css/2.28bb0c3d.chunk.css.map",
+    "static/css/main.8c8b27cf.chunk.css.map": "/bookkeeper-finder/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.f409ee30.chunk.js.LICENSE.txt": "/bookkeeper-finder/static/js/2.f409ee30.chunk.js.LICENSE.txt",
+    "static/media/bookkeeper-finder.cbbf56fb.png": "/bookkeeper-finder/static/media/bookkeeper-finder.cbbf56fb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f0d1dca9.js",
+    "static/css/2.28bb0c3d.chunk.css",
+    "static/js/2.f409ee30.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.f2a4466f.chunk.js"
+  ]
+}
